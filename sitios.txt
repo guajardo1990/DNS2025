@@ -1,0 +1,4 @@
+@@||akamaihd.net^$important
+@@||pirateproxy-bay.com^$important
+@@||thepiratebay10.xyz^$important
+@@||godaddy.com^$important
